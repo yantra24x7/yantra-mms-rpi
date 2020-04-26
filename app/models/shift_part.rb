@@ -1,0 +1,2 @@
+class ShiftPart < ApplicationRecord
+end
